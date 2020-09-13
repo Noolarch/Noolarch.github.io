@@ -1,6 +1,6 @@
 # SkookumScript Web Pages and Docs
 
-[![SkookumScript Logo](images/logo.png)]](https://skookumscript.com)
+[![SkookumScript Logo](_source/images/logo.png)]](https://skookumscript.com)
 
 SkookumScript is a video game programming language owned by Epic Games, Inc.
 
