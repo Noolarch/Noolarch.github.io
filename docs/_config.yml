@@ -24,7 +24,7 @@ date_format: "%B %e, %Y"
 # ----------------------- #
 
 # Where things are
-source:      ./docs
+#source:      ./docs
 
 # Outputting:
 permalink: /blog/:year/:month-:day-:title/
