@@ -6,7 +6,7 @@ SkookumScript is a video game programming language owned by Epic Games, Inc.
 
 This repository contains files used to generate the [SkookumScript web pages](https://skookumscript.com) using [Jekyll](https://jekyllrb.com/) and hosting them on GitHub (or locally running Jekyll on your computer).
 
-![The SkookumScript IDE and Unreal Engine Editor](_source/images/galleries/Screens.png)
+![The SkookumScript Home Page](SkWeb.png)
 
 ## Issues and contributions
 
