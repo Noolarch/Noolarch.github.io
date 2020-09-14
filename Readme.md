@@ -10,6 +10,6 @@ This repository contains files used to generate the [SkookumScript web pages](ht
 
 The SkookumScript web pages are still a work in progress.
 
-[![Pages are incomplete and missing](_source/images/SkWeb-error404.jpg)](_source/images/SkWeb-error404.jpg)
+![Pages are incomplete and missing](docs/images/SkWeb-error404.jpg)
 
 Please help evolve these pages by [making requests and noting any issues](https://github.com/EpicSkookumScript/EpicSkookumScript.github.io/issues) and we'll prioritize those areas. Even better, create your own contributions then make a pull request to get it added -- see [Jekyll](https://jekyllrb.com/) to learn how.
